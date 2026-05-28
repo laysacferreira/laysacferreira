@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Laysa Ferreira
+# Olá, eu sou a Laysa Ferreira 👋
 
 ## 👩‍💻 Sobre mim
 
