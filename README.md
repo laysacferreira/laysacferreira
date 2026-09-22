@@ -14,6 +14,9 @@ Atualmente, venho desenvolvendo meus conhecimentos por meio dos estudos, trabalh
 * Desenvolvimento de sistemas
 * Python
 * Portugol
+* HTML
+* PHP
+* CSS
 
 ## 🧰 Ferramentas
 
